@@ -1,4 +1,4 @@
-# **Análisis de Datos Electorales para la Toma de Decisiones Estratégicas**
+# **Análisis de Datos Electorales para la Toma de Decisiones**
 
 Este proyecto desarrolla una base de datos relacional orientada al análisis de datos electorales, tomando como referencia la estructura territorial y funcional de la Registraduría Nacional. El objetivo central es proporcionar un entorno de análisis que permita estudiar el comportamiento electoral con datos estructurados, limpios y consistentes, facilitando la exploración de patrones, tendencias y resultados a nivel geográfico y político. La base de datos está diseñada en SQLite y representa entidades clave como departamentos, municipios, puestos de votación, mesas, partidos, candidatos, elecciones y resultados, lo que permite realizar consultas avanzadas y análisis detallados del proceso electoral.
 
