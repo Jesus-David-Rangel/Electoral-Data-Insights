@@ -1,4 +1,4 @@
-# **Análisis de Datos Electorales para la Toma de Decisiones**
+### **Análisis de Datos Electorales para la Toma de Decisiones Estratégicas**
 
 Este proyecto desarrolla una base de datos relacional orientada al análisis de datos electorales, tomando como referencia la estructura territorial y funcional de la Registraduría Nacional. El objetivo central es proporcionar un entorno de análisis que permita estudiar el comportamiento electoral con datos estructurados, limpios y consistentes, facilitando la exploración de patrones, tendencias y resultados a nivel geográfico y político. La base de datos está diseñada en SQLite y representa entidades clave como departamentos, municipios, puestos de votación, mesas, partidos, candidatos, elecciones y resultados, lo que permite realizar consultas avanzadas y análisis detallados del proceso electoral.
 
@@ -6,7 +6,7 @@ El proyecto está orientado a investigadores, analistas, estudiantes y profesion
 
 El repositorio incluye el esquema completo de la base de datos, un conjunto de datos de prueba y la definición del modelo en DBML para generar diagramas ER. Con esta estructura se busca demostrar cómo un modelo relacional bien diseñado puede convertirse en un recurso valioso para el análisis electoral, permitiendo examinar de forma clara las interrelaciones entre territorios, candidatos y partidos, y brindando una base sólida para desarrollar reportes, dashboards y estudios basados en datos.
 
-# **Electoral Data Analysis for Strategic Decision-Making**
+### **Electoral Data Analysis for Strategic Decision-Making**
 
 This project delivers a relational database explicitly oriented toward electoral data analysis, taking inspiration from the territorial and administrative structure of the National Registry. Its main goal is to provide a reliable analytical environment where electoral behavior can be studied through well-structured, clean and consistent data. The SQLite model captures key entities such as departments, municipalities, polling stations, tables, political parties, candidates, elections and results, enabling complex queries and detailed examination of the electoral process.
 
